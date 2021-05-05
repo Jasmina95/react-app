@@ -1,0 +1,31 @@
+table {
+  /* use auto to center */
+  margin: 24px auto;
+  border: 1px solid #369;
+}
+
+table th {
+  /*  */
+  background-color: #369;
+  color: white;
+}
+
+table tr {
+  /* cursor: pointer; */
+  background-color: #eaeaea;
+  height: 18px;
+}
+
+table tr:nth-child(2n + 1) {
+  /* every odd row */
+  background-color: #fafafa;
+}
+table td {
+  padding: 2px 8px;
+  border-right: 1px solid #369;
+}
+
+table td:last-child {
+  padding: 2px 8px;
+  border-right: none;
+}

@@ -1,0 +1,28 @@
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.navigator {
+  margin-top: 45px;
+  margin-right: 24px;
+}
+
+.container {
+  width: 96%;
+  padding: 12px;
+  text-align: center;
+}
+
+.input-form {
+  width: 50%;
+  margin: 24px auto;
+}
+
+.logo-img {
+  width: 120px;
+  height: 120px;
+}
